@@ -1,0 +1,1 @@
+Um vetor de ponteiros, seu tamanho é flexível e por isso se torna melhor pois não sabemos o tamanho das strings fornecidas pelo usuário.
